@@ -60,7 +60,9 @@
                                     </div>
                                     <a href="login.php" class="text-decoration-none" ><button class="btn btn-primary btn-user btn-block " >Pacjent</button></a>
                                     <hr class="alert-primary">   
-                                    <a href="login_lekarz.php" class="text-decoration-none" ><button class="btn btn-primary btn-user btn-block " >Lekarz</button></a> 
+				    <a href="login_lekarz.php" class="text-decoration-none" ><button class="btn btn-primary btn-user btn-block " >Lekarz</button></a>
+				<hr class="alert-primary">
+				<a href="../index.html"><button class="btn btn-primary btn-user btn-block">Strona główna</button></a> 
                                 </div>
                                 </div>
                             </div>

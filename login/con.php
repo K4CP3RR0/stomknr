@@ -1,3 +1,3 @@
 <?php
-$link = mysqli_connect("localhost","k4cp3rr0","123456","stomatologiaknr");
+$link = mysqli_connect("localhost","stomknr","password","stomatologiaknr");
 ?>
